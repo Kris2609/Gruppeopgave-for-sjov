@@ -16,6 +16,7 @@ namespace No_WPF
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+            IsMouseVisible = true;
         }
 
         /// <summary>
@@ -73,7 +74,11 @@ namespace No_WPF
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
+<<<<<<< HEAD
             GraphicsDevice.Clear(Color.Black);
+=======
+            GraphicsDevice.Clear(Color.Red);
+>>>>>>> 163477a24c10756510ca3dd248a613ce67e167db
 
             // TODO: Add your drawing code here
 
