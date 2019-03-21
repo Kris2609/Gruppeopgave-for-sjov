@@ -10,6 +10,9 @@ namespace Fuck_this
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Robert wants to crash Computer A");
+            Console.WriteLine("Now it´s your turn miss");
+            Console.ReadLine();
         }
     }
 }
