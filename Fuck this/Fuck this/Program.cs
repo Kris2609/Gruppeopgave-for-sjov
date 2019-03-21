@@ -12,6 +12,7 @@ namespace Fuck_this
         {
             Console.WriteLine("Robert wants to crash Computer A");
             Console.WriteLine("Now it´s your turn miss");
+            Console.WriteLine("Version 1,0");
             Console.ReadLine();
         }
     }

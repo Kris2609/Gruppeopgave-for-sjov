@@ -5,3 +5,10 @@ C:\Users\Kristoffer\Desktop\CodeProjecter\Gruppeopgave-for-sjov\Fuck this\Fuck t
 C:\Users\Kristoffer\Desktop\CodeProjecter\Gruppeopgave-for-sjov\Fuck this\Fuck this\obj\Debug\Fuck this.csproj.CoreCompileInputs.cache
 C:\Users\Kristoffer\Desktop\CodeProjecter\Gruppeopgave-for-sjov\Fuck this\Fuck this\obj\Debug\Fuck this.exe
 C:\Users\Kristoffer\Desktop\CodeProjecter\Gruppeopgave-for-sjov\Fuck this\Fuck this\obj\Debug\Fuck this.pdb
+C:\Users\Robert-PC\Desktop\VS\repos\Gruppeopgave-for-sjov\Fuck this\Fuck this\bin\Debug\Fuck this.exe.config
+C:\Users\Robert-PC\Desktop\VS\repos\Gruppeopgave-for-sjov\Fuck this\Fuck this\bin\Debug\Fuck this.exe
+C:\Users\Robert-PC\Desktop\VS\repos\Gruppeopgave-for-sjov\Fuck this\Fuck this\bin\Debug\Fuck this.pdb
+C:\Users\Robert-PC\Desktop\VS\repos\Gruppeopgave-for-sjov\Fuck this\Fuck this\obj\Debug\Fuck this.csprojAssemblyReference.cache
+C:\Users\Robert-PC\Desktop\VS\repos\Gruppeopgave-for-sjov\Fuck this\Fuck this\obj\Debug\Fuck this.csproj.CoreCompileInputs.cache
+C:\Users\Robert-PC\Desktop\VS\repos\Gruppeopgave-for-sjov\Fuck this\Fuck this\obj\Debug\Fuck this.exe
+C:\Users\Robert-PC\Desktop\VS\repos\Gruppeopgave-for-sjov\Fuck this\Fuck this\obj\Debug\Fuck this.pdb
